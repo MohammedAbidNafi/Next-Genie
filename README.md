@@ -1,11 +1,30 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![GNU License][license-shield]][license-url]
+
 # NextGenie 🧞‍♂️
 
 A magical CLI tool to quickly generate Next.js app directory pages and layouts.
 
 ## Installation
 
+NPM
 ```bash
 npm install -g nextgenie
+```
+Yarn
+```bash
+yarn global add nextgenie
+```
+PNPM
+```bash
+pnpm add -g nextgenie
+```
+Bun
+```bash
+bun install -g nextgenie
 ```
 
 ## Features
@@ -88,15 +107,25 @@ export default function LayoutName({
 - Next.js 13+ (App Directory)
 
 ## License
+This project is licensed under GPL-3.0 [View License](LICENSE)
 
-## Author
+## Authors
+<a href="https://github.com/MohammedAbidNafi/Next-Genie/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=MohammedAbidNafi/Next-Genie" alt="contrib.rocks image" />
+</a>
 
 ## Contributing
 
-Pull requests are welcome! Feel free to contribute to this project.
+[View CONTRIBUTING.md](CONTRIBUTING.md)
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/amazing-feature`)
-3. Commit your Changes (`git commit -m 'add some amazingfeature'`)
-4. Push to the Branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+
+[contributors-shield]: https://img.shields.io/github/contributors/MohammedAbidNafi/Next-Genie.svg?style=for-the-badge
+[contributors-url]: https://github.com/MohammedAbidNafi/Next-Genie/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/MohammedAbidNafi/Next-Genie.svg?style=for-the-badge
+[forks-url]: https://github.com/MohammedAbidNafi/Next-Genie/network/members
+[stars-shield]: https://img.shields.io/github/stars/MohammedAbidNafi/Next-Genie.svg?style=for-the-badge
+[stars-url]: https://github.com/MohammedAbidNafi/Next-Genie/stargazers
+[issues-shield]: https://img.shields.io/github/issues/MohammedAbidNafi/Next-Genie.svg?style=for-the-badge
+[issues-url]: https://github.com/MohammedAbidNafi/Next-Genie/issues
+[license-shield]: https://img.shields.io/github/license/MohammedAbidNafi/Next-Genie.svg?style=for-the-badge
+[license-url]: https://github.com/MohammedAbidNafi/Next-Genie/blob/master/LICENSE.txt
