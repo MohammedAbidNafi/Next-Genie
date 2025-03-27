@@ -1,12 +1,13 @@
 {
-  "name": "nextgenie",
+  "name": "nextgenie-cli",
   "module": "src/index.ts",
+  "version": "1.0.0",
   "type": "module",
   "devDependencies": {
     "@types/bun": "latest"
   },
   "bin": {
-    "nextgenie": "src/index.ts"
+    "@abidnafi/nextgenie": "src/index.ts"
   },
   "peerDependencies": {
     "typescript": "^5"
