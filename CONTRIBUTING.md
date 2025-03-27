@@ -92,4 +92,4 @@ npm test
 
 ## License
 
-By contributing to NextGenie, you agree that your contributions will be licensed under .
+By contributing to NextGenie, you agree that your contributions will be licensed under GNU General Public License v3.0.
