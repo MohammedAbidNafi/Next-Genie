@@ -1,0 +1,17 @@
+{
+  "name": "nextgenie",
+  "module": "src/index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "bin": {
+    "nextgenie": "src/index.ts"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "commander": "^13.1.0"
+  }
+}
