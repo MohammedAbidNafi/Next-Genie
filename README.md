@@ -93,10 +93,4 @@ export default function LayoutName({
 
 ## Contributing
 
-Pull requests are welcome! Feel free to contribute to this project.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/amazing-feature`)
-3. Commit your Changes (`git commit -m 'add some amazingfeature'`)
-4. Push to the Branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+[View CONTRIBUTING.md](CONTRIBUTING.md)
