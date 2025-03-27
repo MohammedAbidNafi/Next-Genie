@@ -12,19 +12,19 @@ A magical CLI tool to quickly generate Next.js app directory pages and layouts.
 
 NPM
 ```bash
-npm install -g @abidnafi/nextgenie
+npm install -g nextgenie-cli
 ```
 Yarn
 ```bash
-yarn global add @abidnafi/nextgenie
+yarn global add nextgenie-cli
 ```
 PNPM
 ```bash
-pnpm add -g @abidnafi/nextgenie
+pnpm add -g nextgenie-cli
 ```
 Bun
 ```bash
-bun install -g @abidnafi/nextgenie
+bun install -g nextgenie-cli
 ```
 
 ## Features
