@@ -33,13 +33,14 @@ Enhancement suggestions are tracked as GitHub issues. When creating an enhanceme
 2. If you've added code that should be tested, add tests
 3. Ensure the test suite passes
 4. Make sure your code lints
-5. Update the documentation
+5. Make sure your code passes our automated tests
+6. Update the documentation
 
 ## Development Setup
 
 1. Clone your fork of the repo
 ```bash
-git clone https://github.com/<your-username>/next-cli.git
+git clone https://github.com/MohammedAbidNafi/Next-Genie.git
 cd next-cli
 ```
 
